@@ -1,6 +1,7 @@
 # Generation-of-FM-wave-form
-# Register Number:212222040115
-# Date:28-04-2025
+# Name : Pon Nagarajan M 
+# Register Number : 212222040115
+# Date : 28-04-2025
 
 # Aim
 To generte Frequency modulated wave for given specification
